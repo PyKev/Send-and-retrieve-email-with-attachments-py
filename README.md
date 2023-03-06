@@ -1,1 +1,2 @@
 # Enviar-y-almacenar-correos_Python
+Este código tiene 2 funciones, la primera permite enviar correos teniendo en Excel un registro de las personas que tienen una tarea asignada y la segunda función permite traer los 3 ultimos correos de la bandeja de entrada de outlook y guardar cada correo como un registro en un excel, este codigo tambien guarda los archivos adjuntos y en el registro de excel se encuentra el link con el hipervinculo de los archivos adjuntos.
