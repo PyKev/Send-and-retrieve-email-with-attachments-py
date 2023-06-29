@@ -1,4 +1,4 @@
-# Script de Envío de Recordatorios por correo y descargar archivos adjuntos
+# Script de Envío de Recordatorios por correo y descarga de archivos adjuntos
 
 Este repositorio contiene un script en Python que se encarga de enviar recordatorios y recuperar correos y adjuntos utilizando las bibliotecas win32com.client, pandas, os, openpyxl y datetime.
 
